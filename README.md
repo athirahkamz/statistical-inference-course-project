@@ -43,10 +43,10 @@ Use confidence intervals and/or hypothesis tests to compare tooth growth by supp
 State your conclusions and the assumptions needed for your conclusions. 
 Some criteria that you will be evaluated on
 
-Did you  perform an exploratory data analysis of at least a single plot or table highlighting basic features of the data?
+- Did you  perform an exploratory data analysis of at least a single plot or table highlighting basic features of the data?
 
-Did the student perform some relevant confidence intervals and/or tests?
+- Did the student perform some relevant confidence intervals and/or tests?
 
-Were the results of the tests and/or intervals interpreted in the context of the problem correctly? 
+- Were the results of the tests and/or intervals interpreted in the context of the problem correctly? 
 
-Did the student describe the assumptions needed for their conclusions?
+- Did the student describe the assumptions needed for their conclusions?
